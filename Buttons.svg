@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="64" viewBox="0 0 82 77">
+  <g id="Buttons" transform="translate(-258.771 -269)">
+    <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(258.771 269)" fill="#fff" stroke="#c64a37" stroke-width="1">
+      <rect width="82" height="77" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="81" height="76" rx="9.5" fill="none"/>
+    </g>
+    <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(323.771 277)" fill="#fff" stroke="#c64a37" stroke-width="1">
+      <rect width="7" height="64" stroke="none"/>
+      <rect x="0.5" y="0.5" width="6" height="63" fill="none"/>
+    </g>
+    <g id="Rectangle_28" data-name="Rectangle 28" transform="translate(296.771 277)" fill="#fff" stroke="#c64a37" stroke-width="1">
+      <rect width="7" height="64" stroke="none"/>
+      <rect x="0.5" y="0.5" width="6" height="63" fill="none"/>
+    </g>
+    <g id="Rectangle_27" data-name="Rectangle 27" transform="translate(268.771 277)" fill="#fff" stroke="#c64a37" stroke-width="1">
+      <rect width="7" height="64" stroke="none"/>
+      <rect x="0.5" y="0.5" width="6" height="63" fill="none"/>
+    </g>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(266 288)" fill="#c64a37" stroke="#c64a37" stroke-width="1">
+      <rect width="13" height="13" stroke="none"/>
+      <rect x="0.5" y="0.5" width="12" height="12" fill="none"/>
+    </g>
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(294 316)" fill="#c64a37" stroke="#c64a37" stroke-width="1">
+      <rect width="12" height="12" stroke="none"/>
+      <rect x="0.5" y="0.5" width="11" height="11" fill="none"/>
+    </g>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(321 298)" fill="#c64a37" stroke="#c64a37" stroke-width="1">
+      <rect width="13" height="13" stroke="none"/>
+      <rect x="0.5" y="0.5" width="12" height="12" fill="none"/>
+    </g>
+  </g>
+</svg>
