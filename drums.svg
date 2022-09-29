@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82.708" height="51.409" viewBox="0 0 82.708 51.409">
+  <g id="drums" transform="translate(-201 -342.591)">
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(201 361)" fill="#fff" stroke="#c64a37" stroke-width="1">
+      <rect width="82" height="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="81" height="4" fill="none"/>
+    </g>
+    <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(206 366)" fill="#fff" stroke="#c64a37" stroke-width="1">
+      <rect width="73" height="23" stroke="none"/>
+      <rect x="0.5" y="0.5" width="72" height="22" fill="none"/>
+    </g>
+    <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(201 389)" fill="#fff" stroke="#c64a37" stroke-width="1">
+      <rect width="82" height="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="81" height="4" fill="none"/>
+    </g>
+    <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(217 366)" fill="#fff" stroke="#c64a37" stroke-width="1">
+      <rect width="3" height="23" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2" height="22" fill="none"/>
+    </g>
+    <g id="Rectangle_21" data-name="Rectangle 21" transform="translate(263 366)" fill="#fff" stroke="#c64a37" stroke-width="1">
+      <rect width="3" height="23" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2" height="22" fill="none"/>
+    </g>
+    <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(241 366)" fill="#fff" stroke="#c64a37" stroke-width="1">
+      <rect width="3" height="23" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2" height="22" fill="none"/>
+    </g>
+    <g id="Rectangle_23" data-name="Rectangle 23" transform="matrix(0.951, -0.309, 0.309, 0.951, 232.968, 358.806)" fill="#fff" stroke="#c64a37" stroke-width="1">
+      <rect width="52.476" height="2.692" stroke="none"/>
+      <rect x="0.5" y="0.5" width="51.476" height="1.692" fill="none"/>
+    </g>
+    <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(216.458 350.816) rotate(8)" fill="#fff" stroke="#c64a37" stroke-width="1">
+      <rect width="47" height="3.679" stroke="none"/>
+      <rect x="0.5" y="0.5" width="46" height="2.679" fill="none"/>
+    </g>
+  </g>
+</svg>
